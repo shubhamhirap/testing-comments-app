@@ -20,7 +20,7 @@ class App extends Component {
 
   renderHeader() {
     return (
-      <ul>
+      <ul id="header">
         <li>
           <Link to="/">Home</Link>
         </li>
